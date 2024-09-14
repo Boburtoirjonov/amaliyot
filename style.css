@@ -1,0 +1,36 @@
+.text{
+    background-color: black;
+    text-align: center;
+}
+.box{
+    color: yellow;
+    text-align: center;
+}
+.name{
+    color: green;
+}
+.text1{
+    color: aliceblue;
+    text-align: center;
+}
+.bilol{
+    color: green;
+}
+.th{
+    color: aliceblue;
+}
+.boy{
+    color: aliceblue;
+}
+.blol{
+    color: aliceblue;
+}
+table{
+    width: 1600px;
+}
+.sunnat{
+    background-color: yellow;
+    border-radius: 10px;
+    width: 300px;
+    text-align: center;
+}
